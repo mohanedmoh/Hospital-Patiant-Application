@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoLocalized.Pages.invoice_profile">
+    <ContentPage.Content>
+        
+        <StackLayout>
+            <StackLayout BackgroundColor="#2c3e50" Margin="0" HeightRequest="250">
+                <Image Source="wallet.png" WidthRequest="150" HeightRequest="150" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,10,0,0"></Image>
+                <Label x:Name="nameL" FontSize="Large" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#212121"></Label>
+
+            </StackLayout>
+            <ScrollView>
+                <StackLayout>
+                    <StackLayout>
+                        <Label x:Name="total" FontSize="Medium" Text="Total amount : " FontAttributes="Bold" Margin="10,15,0,0"  TextColor="#212121" ></Label>
+                        <Label x:Name="paid" Text="Paid amount : " FontAttributes="Bold" FontSize="Medium" Margin="10,10,0,0"  TextColor="#212121" ></Label>
+                        <Label x:Name="requested" Text="Requested amount : " FontAttributes="Bold" FontSize="Medium" Margin="10,10,0,0"  TextColor="#212121" ></Label>
+                        <Label x:Name="date" Text="Date : " FontAttributes="Bold" FontSize="Medium" Margin="10,10,0,0"  TextColor="#212121" ></Label>
+                        <Label x:Name="status" Text="Status : " FontAttributes="Bold" FontSize="Medium" Margin="10,10,0,0"  TextColor="#212121" ></Label>
+                    </StackLayout>
+                    <StackLayout Margin="5" BackgroundColor="#ecf0f1">
+                        <ContentView x:Name="TableView" WidthRequest="-1" VerticalOptions="FillAndExpand">
+                            
+                        </ContentView>
+                    </StackLayout>
+                    
+                </StackLayout>
+            </ScrollView>
+            <StackLayout BackgroundColor="#FFFFFF">
+                <Label HeightRequest="1" BackgroundColor="#E3E3E3" />
+                <Label Text="Copyrights © to ICT 2017" VerticalOptions="FillAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

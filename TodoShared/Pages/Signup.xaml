@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<local:PageProxy xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:local="clr-namespace:TodoLocalized"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             x:Class="TodoLocalized.Pages.Signup" >
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <OnPlatform.iOS>
+                0, 20, 0, 0
+            </OnPlatform.iOS>
+            <OnPlatform.Android>
+                0, 0, 0, 0
+            </OnPlatform.Android>
+            <OnPlatform.WinPhone>
+                0, 0, 0, 0
+            </OnPlatform.WinPhone>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid x:Name="stack" Grid.Row="1" Margin="20,20,20,100">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="20" />
+                    <RowDefinition Height="50" />
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="70"/>
+                    <RowDefinition Height="90"/>
+
+                </Grid.RowDefinitions>
+                <Image Source="Logo.png" HeightRequest="70" VerticalOptions="Center" />
+                <Entry x:Name="first" Grid.Row="1" Placeholder="First name" PlaceholderColor="#bababa" FontSize="16" />
+                <Entry x:Name="last" Grid.Row="2" Placeholder="Last name" PlaceholderColor="#bababa" FontSize="16" />
+                <Label Text="   ** Which will be used for login **" VerticalOptions="EndAndExpand" Grid.Row="3"></Label>
+                <Entry Keyboard="Numeric" x:Name="phone" Grid.Row="4" Placeholder="Phone" PlaceholderColor="#bababa" FontSize="16"   />
+                <Entry x:Name="pass" Grid.Row="5" Placeholder="Password" IsPassword="True" PlaceholderColor="#bababa" FontSize="16" />
+                <Entry Keyboard="Email" x:Name="email" Grid.Row="6" Placeholder="Email" PlaceholderColor="#bababa" FontSize="16"  />
+                <Picker IsVisible="False" x:Name="accountType" Grid.Row="7" Title ="Account type" HeightRequest="50">
+                    <Picker.Behaviors>
+                        <local:PickerBehavior x:Name="pickerBehavior" />
+                    </Picker.Behaviors>
+                    <Picker.Items>
+                    </Picker.Items>
+                </Picker>
+                <StackLayout IsVisible="False" Grid.Row="8" Orientation="Horizontal" Spacing="5">
+                    <Label Text="Birth Date :" VerticalOptions="CenterAndExpand" ></Label>
+                    <DatePicker x:Name="bdate"  VerticalOptions="CenterAndExpand" >
+                        <DatePicker.Format>yyyy-MM-dd</DatePicker.Format>
+                        <DatePicker.MinimumDate>
+                            <sys:DateTime x:FactoryMethod="Parse">
+                                <x:Arguments>
+                                    <x:String>Jan 1 1970</x:String>
+                                </x:Arguments>
+                            </sys:DateTime>
+                        </DatePicker.MinimumDate>
+                        <DatePicker.Date>
+                            <sys:DateTime x:FactoryMethod="Parse">
+                                <x:Arguments>
+                                    <x:String>Jan 1 1990</x:String>
+                                </x:Arguments>
+                            </sys:DateTime>
+                        </DatePicker.Date>
+                        <DatePicker.MaximumDate>
+                            <sys:DateTime x:FactoryMethod="Parse">
+                                <x:Arguments>
+                                    <x:String>Dec 31 2017</x:String>
+                                </x:Arguments>
+                            </sys:DateTime>
+                        </DatePicker.MaximumDate>
+                    </DatePicker>
+                </StackLayout>
+                <Button  Text="Sign up" x:Name="signup" BackgroundColor="#3897F0" TextColor="White" HeightRequest="50" VerticalOptions="Start" Grid.Row="9" />
+            </Grid>
+            <ContentView x:Name="overlay" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"  AbsoluteLayout.LayoutFlags="All" IsVisible="false">
+                <ActivityIndicator  IsRunning="True" IsVisible="True" Color="Red" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+            </ContentView>
+        </StackLayout>
+
+    </ContentPage.Content>
+</local:PageProxy>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoLocalized.Pages.myForms">
+    <ContentPage.Content>
+        <StackLayout x:Name="bigstack">
+            <StackLayout x:Name="stack" HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="" HorizontalOptions="Center" VerticalOptions="Center" Margin="0,2,0,0"></Label>
+                <ScrollView x:Name="CardsScroll" Margin="0">
+                </ScrollView>
+            </StackLayout>
+            <ContentView x:Name="overlay" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"  AbsoluteLayout.LayoutFlags="All" IsVisible="false">
+                <ActivityIndicator  IsRunning="True" IsVisible="True" Color="Red" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+            </ContentView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

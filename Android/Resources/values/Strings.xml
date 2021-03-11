@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Todo.Android.Android</string>
+ 
+
+    <style name="MyTheme" parent="MyTheme.Base">
+    </style>
+    <style name="MyTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+      <item name="colorPrimary">@color/colorPrimary</item>
+      <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+      <item name="colorAccent">@color/colorAccent</item>
+      <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+
+
+</resources>

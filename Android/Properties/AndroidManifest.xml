@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="smart.smart" android:installLocation="auto" android:theme="@style/MainTheme">
+	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26" />
+	<permission android:name="smart.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+	<uses-permission android:name="smart.permission.C2D_MESSAGE" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.CAMERA" />
+	<uses-permission android:name="android.permission.WRITE_SETTINGS" />
+	<uses-permission android:name="android.permission.RECORD_AUDIO" />
+	<uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
+	<uses-permission android:name="android.permission.VIBRATE" />
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+	<uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+	<receiver android-permission="android.permission.RECEIVE_BOOT_COMPLETED" android:exported="true" android:name=".bootReceiver" android:enabled="true">
+		<intent-filter>
+			<action android:name="android.intent.action.BOOT_COMPLETED" />
+			<category android:name="android.intent.category.DEFAULT" />
+		</intent-filter>
+	</receiver>
+	<application android:label="smart.Android" android:icon="@drawable/logo" android:theme="@style/MainTheme" android:largeHeap="true">
+	
+		<receiver android:name="com.onesignal.GcmBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+			<intent-filter>
+				<action android:name="com.google.android.c2dm.intent.RECEIVE" />
+				<category android:name="smart" />
+			</intent-filter>
+		</receiver>
+		<receiver android:name=".bootReceiver" android:enabled="true">
+			<intent-filter>
+				<action android:name="android.intent.action.BOOT_COMPLETED" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</receiver>
+	</application>
+</manifest>

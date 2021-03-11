@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+  x:Class="TodoLocalized.Pages.lab_results"
+  xmlns="http://xamarin.com/schemas/2014/forms"
+  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+  BackgroundColor="White">
+
+
+    <ContentPage.Content>
+        <RelativeLayout x:Name="relative" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <StackLayout RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent,Property=Height,Factor=1}" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent,Property=Width,Factor=1}" x:Name="bigstack" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <ListView
+                x:Name="stack"
+                ItemsSource="{Binding .}"
+                RowHeight="{Binding length}"   
+                CachingStrategy="RecycleElement"
+                HasUnevenRows="True"
+                SeparatorVisibility="Default">
+
+                <ListView.Header>
+                    <Grid RowSpacing="0" ColumnSpacing="0" Grid.Column="2" Margin="130,50,0,0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Label
+                            Grid.Column="0"
+                            Margin="10,0"
+                            Style="{StaticResource ClassNameLabel}"
+                            FontSize="Small"
+                            Text="Test" />
+
+                        <Label
+                            Grid.Column="1"
+                            Margin="10,0"
+                            Style="{StaticResource ClassInstructorLabel}"
+                            FontSize="Small"
+                            Text="Analysis" />
+                        <Label
+                            Grid.Column="2"
+                            Margin="10,0"
+                            Style="{StaticResource ClassInstructorLabel}"
+                            FontSize="Small"
+                            Text="Result" />
+                    </Grid>
+                </ListView.Header>
+
+                <ListView.Footer>
+                    <Grid RowSpacing="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="64" />
+                            <RowDefinition Height="100" />
+                        </Grid.RowDefinitions>
+                        <Image Grid.RowSpan="2" Aspect="AspectFill" HorizontalOptions="Fill" VerticalOptions="Start" Source="Background.png" />
+                        <Image Aspect="Fill" Grid.RowSpan="2" HorizontalOptions="Fill" Source="Fade.png" />
+                    </Grid>
+                </ListView.Footer>
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid ColumnSpacing="0" RowSpacing="0" BackgroundColor="{Binding color}" >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="80" />
+                                    <ColumnDefinition Width="50" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+
+                                <Label HorizontalOptions="Center" VerticalOptions="Center" Style="{StaticResource ClassTimeLabel}" Text="{Binding date, StringFormat='{0:H:mm}'}" FontSize="Small" />
+                                <ListView
+                                    ItemSelected="sub_ItemSelected"
+                                    ItemsSource="{Binding ex}"
+                                    RowHeight="85"
+                                    VerticalOptions="Center"
+                                    CachingStrategy="RecycleElement"
+                                    SeparatorVisibility="Default"
+                                    Grid.Column="2">
+                                        <ListView.ItemTemplate >
+                                            <DataTemplate>
+                                                <ViewCell>
+                                                    <Grid RowSpacing="0" ColumnSpacing="0" VerticalOptions="Center">
+                                                        <Grid.ColumnDefinitions>
+                                                            <ColumnDefinition Width="*"></ColumnDefinition>
+                                                            <ColumnDefinition Width="*"></ColumnDefinition>
+                                                            <ColumnDefinition Width="*"></ColumnDefinition>
+                                                        </Grid.ColumnDefinitions>
+                                                        <Label
+                                                            Grid.Column="0"
+                                                            Margin="10,0"
+                                                            Style="{StaticResource ClassNameLabel}"
+                                                            Text="{Binding test_name}" 
+                                                            FontSize="Small"/>
+                                                        <Label
+                                                            Grid.Column="1"
+                                                            Margin="10,0"
+                                                            Style="{StaticResource ClassInstructorLabel}"
+                                                            Text="{Binding analysis_name}"
+                                                            FontSize="Small"/>
+                                                        <Label
+                                                            Grid.Column="2"
+                                                            Margin="10,0"
+                                                            Style="{StaticResource ClassInstructorLabel}"
+                                                            Text="{Binding result}" 
+                                                            FontSize="Small"/>
+                                                    </Grid>
+                                                </ViewCell>
+                                            </DataTemplate>
+                                        </ListView.ItemTemplate>
+                                    </ListView>
+
+
+                                    <BoxView
+                                        Grid.RowSpan="2"
+                                        Grid.Column="1"
+                                        BackgroundColor="{StaticResource TimelineColor}"
+                                        HorizontalOptions="Center"
+                                        VerticalOptions="Fill"
+                                        WidthRequest="4" />
+
+                                    <Image Grid.Column="1" Source="Bullet.png" />
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+        </StackLayout>
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

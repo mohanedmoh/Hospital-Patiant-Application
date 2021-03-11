@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>{EAC7244C-09D6-4922-A662-58743AE6D868}</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>TodoLocalized</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Animation\animation.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Converters\NotBooleanConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Cryption\cryption.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\DatabaseFunctions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Database\IFileHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ITextToSpeech.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Master_Pages\main.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Master_Pages\Master.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Master_Pages\MasterPageItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\day_week.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DbModel\IAccounts.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DbModel\IFirstRun.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DbModel\IManualForm.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DbModel\IHospitals.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DbModel\ILab.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DbModel\IMedicalAlarm.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DbModel\Ipharmacy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\DbModel\user.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\doctor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\ExerciseClass.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\FormData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\IFileHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\imagePicker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\IMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\invoice.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\pharmacy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\RandomInt.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\toast.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)PageProxy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\About.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Accounts.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\add_hospital_account.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Cards\Card.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Cards\CardDetailsView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Cards\CardStatusView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Cards\CardView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Cards\ConfigIconView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Cards\IconLabelView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Cards\StyleKit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\dr_profile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\exist_login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\FormTimeline.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Home.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Invoice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoices_card\Card.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoices_card\CardDetailsView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoices_card\CardStatusView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoices_card\CardView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoices_card\ConfigIconView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoices_card\IconLabelView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoices_card\StyleKit.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoices_pending.xaml.cs">
+      <DependentUpon>invoices_pending.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoice_profile.xaml.cs">
+      <DependentUpon>invoice_profile.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\invoice_tab.xaml.cs">
+      <DependentUpon>invoice_tab.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\lab_results.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\manualResultForm.xaml.cs">
+      <DependentUpon>manualResultForm.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\manualResults.xaml.cs">
+      <DependentUpon>manualResults.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\myForms.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\pharmacy_list.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\PHR.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Popups\pharmaAlarm.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Popups\Sub.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\search_dr.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Signup.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\Verification.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Pages\waiting_list.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)PickerBehavior.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)L10n.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ILocale.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)App.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Master_Pages\main.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\Popups\Sub.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\About.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\Accounts.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\add_hospital_account.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\exist_login.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\Home.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\lab_results.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\Invoice.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\Login.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\pharmacy_list.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\PHR.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\Signup.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\Verification.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\waiting_list.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\search_dr.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\dr_profile.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\Popups\pharmaAlarm.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\myForms.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\FormTimeline.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\invoice_tab.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\invoices_pending.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\invoice_profile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\manualResults.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="$(MSBuildThisFileDirectory)Pages\manualResultForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

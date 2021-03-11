@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<local:PageProxy xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:local="clr-namespace:TodoLocalized"
+             x:Class="TodoLocalized.Pages.add_hospital_account">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <OnPlatform.iOS>
+                0, 20, 0, 0
+            </OnPlatform.iOS>
+            <OnPlatform.Android>
+                0, 0, 0, 0
+            </OnPlatform.Android>
+            <OnPlatform.WinPhone>
+                0, 0, 0, 0
+            </OnPlatform.WinPhone>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid BackgroundColor="White" x:Name="stack">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="50" />
+                </Grid.RowDefinitions>
+                <Frame CornerRadius="5" HasShadow="True" Margin="40" BackgroundColor="#ecf0f1">
+                    <Grid Grid.Row="0" Margin="20,0,20,0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50" />
+                            <RowDefinition Height="50"/>
+                        </Grid.RowDefinitions>
+
+                        <Image Source="hospital.png" VerticalOptions="Center" HorizontalOptions="Center" />
+                        <Entry x:Name="id" Grid.Row="1" Placeholder="Pationt ID" PlaceholderColor="#bababa" FontSize="15" BackgroundColor="Transparent" />
+                        <Entry x:Name="pass" Grid.Row="2" Placeholder="Password" IsPassword="True" PlaceholderColor="#bababa" FontSize="15" BackgroundColor="Transparent"/>
+                        <Picker IsVisible="true" x:Name="accountType" Grid.Row="3" Title ="Account type" HeightRequest="50">
+                            <Picker.Behaviors>
+                                <local:PickerBehavior x:Name="pickerBehavior" />
+                            </Picker.Behaviors>
+                            <Picker.Items>
+                            </Picker.Items>
+                        </Picker>
+                        <Button x:Name="login" Text="Add" BackgroundColor="#3897F0" TextColor="White" HeightRequest="50" VerticalOptions="Start" Grid.Row="4" />
+
+                    </Grid>
+                </Frame>
+                <StackLayout Grid.Row="1" BackgroundColor="#FFFFFF">
+                    <Label HeightRequest="1" BackgroundColor="#E3E3E3" />
+                    <Label Text="Copyrights © to ICT 2017" VerticalOptions="FillAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" />
+                </StackLayout>
+            </Grid>
+            <ContentView x:Name="overlay" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"  AbsoluteLayout.LayoutFlags="All" IsVisible="false">
+                <ActivityIndicator  IsRunning="True" IsVisible="True" Color="Red" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+            </ContentView>
+        </StackLayout>
+    </ContentPage.Content>
+</local:PageProxy>

@@ -1,0 +1,1616 @@
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\Todo.Android.csprojResolveAssemblyReference.cache
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Resx.AppResources.resources
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Resx.AppResources.ar.resources
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\Todo.Android.csproj.GenerateResource.Cache
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.login.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Content.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Issue.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.ListPage.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.TabbedPage1.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.popupModel.ModelDate.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.popupModel.Special.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Splash.SplashPage.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.MainPAge.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.QualityTabs.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.Drugs.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.Complaints.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.Delay.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Setting.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.SmartStack.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.Pages.about.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\TodoLocalized.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\TodoLocalized.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ar\TodoLocalized.resources.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\TodoLocalizedShared.Android.apk
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\TodoLocalizedShared.Android-Signed.apk
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\RestSharp.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\RestSharp.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\ar\TodoLocalized.resources.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\TodoLocalized.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\bin\TodoLocalizedShared.Android.apk
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\layout\main.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\values\strings.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\icon.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\check.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\check2x.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\plus.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\menu.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\user.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\currency.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\time.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\settings.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\values\color.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\user1.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\about.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_down_white_24dp.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_right_white_24dp.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\key.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\logo.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\drawable\menutop.png
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\layout\tabs.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\values-v21\color.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\values-v21\strings.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\res\values-v21\styles.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\R.cs.flag
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\uploadflags.txt
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\bin\Debug\TodoLocalized.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\OxyPlot.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\TodoLocalized.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\TodoLocalized.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\TodoLocalized.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ar\TodoLocalized.resources.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\TodoLocalizedShared.Android.apk
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\TodoLocalizedShared.Android-Signed.apk
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Microcharts.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Microcharts.Droid.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Microcharts.Forms.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\RestSharp.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\SkiaSharp.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\SkiaSharp.Views.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\RestSharp.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\SkiaSharp.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Resx.AppResources.resources
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Resx.AppResources.ar.resources
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\Todo.Android.csproj.GenerateResource.Cache
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.login.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Content.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Issue.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.ListPage.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.TabbedPage1.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.popupModel.ModelDate.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.popupModel.Special.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Splash.SplashPage.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.MainPAge.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.QualityTabs.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.Drugs.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.Complaints.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.Delay.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Setting.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Quality.SmartStack.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.Pages.about.xaml.g.cs
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\ar\TodoLocalized.resources.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.dll
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\TodoLocalized.pdb
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\android\bin\TodoLocalizedShared.Android.apk
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\layout\main.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\values\strings.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\icon.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\check.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\check2x.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\plus.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\menu.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\user.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\currency.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\time.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\settings.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\values\color.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\user1.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\about.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_down_white_24dp.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_right_white_24dp.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\key.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\logo.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\drawable\menutop.png
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\layout\tabs.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\values-v21\color.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\values-v21\strings.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\res\values-v21\styles.xml
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\R.cs.flag
+C:\Users\Mohanad\Desktop\TodoLocalized\copy\SharedProject\Android\obj\Debug\uploadflags.txt
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\TodoLocalized.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\TodoLocalized.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Com.OneSignal.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Com.OneSignal.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\FormsViewGroup.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Microcharts.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Microcharts.Droid.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Microcharts.Forms.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\RestSharp.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Droid.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\SkiaSharp.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\SkiaSharp.Views.Android.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Com.OneSignal.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.Connectivity.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.SecureStorage.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.SecureStorage.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\RestSharp.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\SkiaSharp.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\Todo.Android.csproj.CoreCompileInputs.cache
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.App.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Master_Pages.main.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Popups.Sub.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.About.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Accounts.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.add_hospital_account.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.exist_login.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Home.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.lab_results.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Invoice.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Login.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.pharmacy_list.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.PHR.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Signup.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Verification.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.dll
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\TodoLocalized.pdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\layout\main.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\values\strings.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\icon.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\check.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\check2x.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\plus.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\menu.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\user.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\currency.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\time.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\settings.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\values\color.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\user1.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\about.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_down_white_24dp.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_right_white_24dp.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\key.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\logo.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\menutop.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\layout\tabs.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\values-v21\color.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\values-v21\strings.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\values-v21\styles.xml
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\fade.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\girl.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\grandfather.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\grandmother.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\hospital.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\invoice.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\lab.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\mother.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\out.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\verification.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\accounts.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\baby.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\background.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\boy.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\bullet.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\close.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\res\drawable\drug.png
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\R.cs.flag
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\uploadflags.txt
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\TodoLocalized.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\Com.OneSignal.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\OneSignal.Android.Binding.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\OxyPlot.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\TodoLocalized.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\smart.smart.apk
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\bin\Debug\smart.smart-Signed.apk
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\android\bin\smart.smart.apk
+C:\Users\mohaned\Desktop\smart manager\SharedProject\Android\obj\Debug\Todo.Android.csprojResolveAssemblyReference.cache
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\TodoLocalized.dll.config
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\TodoLocalized.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\TodoLocalized.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\smart.smart.apk
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\smart.smart-Signed.apk
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Com.OneSignal.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Com.OneSignal.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ExifLib.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\FormsViewGroup.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Microcharts.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Microcharts.Droid.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Microcharts.Forms.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NControl.Controls.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NControl.Controls.Droid.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NControl.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NControl.Droid.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NGraphics.Android.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NGraphics.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Media.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Notifications.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Notifications.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\RestSharp.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Droid.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SkiaSharp.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SkiaSharp.Views.Android.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SQLite-net.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XamarinShortcutBadger.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Core.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Forms.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Forms.Droid.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Ioc.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Platform.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Serialization.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Com.OneSignal.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NGraphics.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NGraphics.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NGraphics.Android.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\NGraphics.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Connectivity.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Media.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Media.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Notifications.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Notifications.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Notifications.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.SecureStorage.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.SecureStorage.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\RestSharp.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SkiaSharp.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SQLite-net.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\SQLite-net.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XamarinShortcutBadger.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XamarinShortcutBadger.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Core.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Forms.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Forms.Droid.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Ioc.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Platform.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\XLabs.Serialization.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\Todo.Android.csprojResolveAssemblyReference.cache
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\Todo.Android.csproj.CoreCompileInputs.cache
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.App.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Master_Pages.main.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Popups.Sub.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.About.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Accounts.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.add_hospital_account.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.exist_login.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Home.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.lab_results.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Invoice.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Login.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.pharmacy_list.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.PHR.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Signup.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Verification.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.waiting_list.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.search_dr.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.dr_profile.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Popups.pharmaAlarm.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.myForms.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.Pages.FormTimeline.xaml.g.cs
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.dll
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\TodoLocalized.pdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\bin\smart.smart.apk
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\layout\main.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\values\strings.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\icon.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\check.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\check2x.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\plus.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\menu.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\user.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\currency.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\time.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\settings.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\values\color.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\user1.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\about.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_down_white_24dp.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_right_white_24dp.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\key.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\logo.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\menutop.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\layout\tabs.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\values-v21\color.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\values-v21\strings.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\values-v21\styles.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\fade.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\girl.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\grandfather.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\grandmother.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\hospital.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\invoice.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\lab.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\mother.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\out.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\verification.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\accounts.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\baby.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\background.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\boy.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\bullet.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\close.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\drug.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\values\styles.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\search.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\doctor.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\appointment.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\heartbeat.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\pills.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\xml\file_paths.xml
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\blood.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\diabetes.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\res\drawable\forms.png
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\R.cs.flag
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\uploadflags.txt
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\bin\Debug\TodoLocalized.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Com.OneSignal.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\NGraphics.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\NGraphics.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\OneSignal.Android.Binding.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\OxyPlot.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Plugin.LocalNotifications.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Plugin.LocalNotifications.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Plugin.Notifications.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.Abstractions.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\TodoLocalized.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\mohaned\Desktop\smart manager\backup\SharedProject\Android\obj\Debug\android\assets\XamarinShortcutBadger.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\TodoLocalized.dll.config
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\TodoLocalized.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\TodoLocalized.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\smart.smart.apk
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\smart.smart-Signed.apk
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Com.OneSignal.Abstractions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Com.OneSignal.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ExifLib.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Microcharts.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Microcharts.Droid.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Microcharts.Forms.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NControl.Controls.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NControl.Controls.Droid.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NControl.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NControl.Droid.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NGraphics.Android.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NGraphics.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Media.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Notifications.Abstractions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Notifications.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\RestSharp.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Droid.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SkiaSharp.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SkiaSharp.Views.Android.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SkiaSharp.Views.Forms.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SQLite-net.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XamarinShortcutBadger.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Core.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Forms.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Forms.Droid.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Ioc.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Platform.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Platform.Droid.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Serialization.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Com.OneSignal.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NGraphics.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NGraphics.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NGraphics.Android.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\NGraphics.Android.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Connectivity.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Media.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Media.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Media.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Notifications.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Notifications.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Notifications.Abstractions.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.SecureStorage.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.SecureStorage.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\RestSharp.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SkiaSharp.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SQLite-net.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\SQLite-net.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XamarinShortcutBadger.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XamarinShortcutBadger.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Core.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Forms.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Forms.Droid.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Ioc.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Platform.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Platform.Droid.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\XLabs.Serialization.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.App.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Master_Pages.main.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Popups.Sub.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.About.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Accounts.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.add_hospital_account.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.exist_login.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Home.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.lab_results.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Invoice.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Login.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.pharmacy_list.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.PHR.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Signup.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Verification.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.waiting_list.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.search_dr.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.dr_profile.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Popups.pharmaAlarm.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.myForms.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.Pages.FormTimeline.xaml.g.cs
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.dll
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\TodoLocalized.pdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\bin\smart.smart.apk
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\layout\main.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\values\strings.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\icon.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\check.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\check2x.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\plus.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\menu.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\user.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\currency.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\time.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\settings.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\values\color.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\user1.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\about.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_down_white_24dp.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_right_white_24dp.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\key.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\logo.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\menutop.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\layout\tabs.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\values-v21\color.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\values-v21\strings.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\values-v21\styles.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\fade.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\girl.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\grandfather.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\grandmother.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\hospital.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\invoice.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\lab.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\mother.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\out.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\verification.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\accounts.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\baby.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\background.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\boy.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\bullet.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\close.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\drug.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\values\styles.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\search.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\doctor.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\appointment.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\heartbeat.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\pills.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\xml\file_paths.xml
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\blood.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\diabetes.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\res\drawable\forms.png
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\R.cs.flag
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\uploadflags.txt
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\bin\Debug\TodoLocalized.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Com.OneSignal.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\NGraphics.Android.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\NGraphics.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\OneSignal.Android.Binding.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\OxyPlot.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Plugin.LocalNotifications.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Plugin.LocalNotifications.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Plugin.Notifications.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.Abstractions.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\TodoLocalized.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\android\assets\XamarinShortcutBadger.dll.mdb
+C:\Users\Mohanad\Desktop\phr\SharedProject\Android\obj\Debug\Todo.Android.csprojResolveAssemblyReference.cache
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\TodoLocalized.dll.config
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\TodoLocalized.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\TodoLocalized.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\smart.smart.apk
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\smart.smart-Signed.apk
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Com.OneSignal.Abstractions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Com.OneSignal.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ExifLib.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\FormsViewGroup.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Microcharts.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Microcharts.Droid.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Microcharts.Forms.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NControl.Controls.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NControl.Controls.Droid.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NControl.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NControl.Droid.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Newtonsoft.Json.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NGraphics.Android.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NGraphics.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.CurrentActivity.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Media.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Notifications.Abstractions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Notifications.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Permissions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\RestSharp.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Droid.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Platform.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SkiaSharp.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SkiaSharp.Views.Android.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SkiaSharp.Views.Forms.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SQLite-net.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SQLitePCLRaw.core.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XamarinShortcutBadger.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Core.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Forms.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Forms.Droid.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Ioc.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Platform.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Platform.Droid.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Serialization.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Com.OneSignal.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\FormsViewGroup.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Newtonsoft.Json.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NGraphics.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NGraphics.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NGraphics.Android.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\NGraphics.Android.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Connectivity.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Connectivity.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.CurrentActivity.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Media.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Media.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Media.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Notifications.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Notifications.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Notifications.Abstractions.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Permissions.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Permissions.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Permissions.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.SecureStorage.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.SecureStorage.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\RestSharp.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SkiaSharp.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SQLite-net.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\SQLite-net.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XamarinShortcutBadger.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XamarinShortcutBadger.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Core.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Forms.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Forms.Droid.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Ioc.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Platform.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Platform.Droid.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\XLabs.Serialization.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\Todo.Android.csprojResolveAssemblyReference.cache
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.App.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Master_Pages.main.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Popups.Sub.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.About.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Accounts.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.add_hospital_account.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.exist_login.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Home.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.lab_results.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Invoice.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Login.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.pharmacy_list.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.PHR.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Signup.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Verification.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.waiting_list.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.search_dr.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.dr_profile.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.Popups.pharmaAlarm.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.myForms.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.FormTimeline.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.invoice_tab.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.invoices_pending.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.invoice_profile.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.manualResults.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.Pages.manualResultForm.xaml.g.cs
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.dll
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\TodoLocalized.pdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\bin\smart.smart.apk
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\layout\tabbar.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\layout\toolbar.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\layout\main.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\values\strings.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\icon.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\check.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\check2x.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\plus.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\menu.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\user.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\currency.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\time.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\settings.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\values\color.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\user1.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\about.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_down_white_24dp.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_right_white_24dp.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\key.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\logo.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\menutop.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\layout\tabs.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\values-v21\color.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\values-v21\strings.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\values-v21\styles.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\fade.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\girl.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\grandfather.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\grandmother.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\hospital.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\invoice.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\lab.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\mother.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\out.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\verification.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\accounts.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\baby.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\background.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\boy.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\bullet.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\close.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\drug.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\values\styles.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\search.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\doctor.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\appointment.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\heartbeat.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\pills.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\xml\file_paths.xml
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\blood.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\diabetes.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\forms.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\billb.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\res\drawable\wallet.png
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\R.cs.flag
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\uploadflags.txt
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\bin\Debug\TodoLocalized.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Com.OneSignal.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\NGraphics.Android.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\NGraphics.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\OneSignal.Android.Binding.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\OxyPlot.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Plugin.LocalNotifications.Abstractions.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Plugin.LocalNotifications.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Plugin.Notifications.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.Abstractions.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\TodoLocalized.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\mohanedUSB\xamarin\phr_last\SharedProject\Android\obj\Debug\android\assets\XamarinShortcutBadger.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\TodoLocalized.dll.config
+F:\work\smartcare\SharedProject\Android\bin\Debug\TodoLocalized.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\TodoLocalized.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\smart.smart.apk
+F:\work\smartcare\SharedProject\Android\bin\Debug\smart.smart-Signed.apk
+F:\work\smartcare\SharedProject\Android\bin\Debug\Com.OneSignal.Abstractions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Com.OneSignal.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\ExifLib.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\FormsViewGroup.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Microcharts.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Microcharts.Droid.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Microcharts.Forms.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\NControl.Controls.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\NControl.Controls.Droid.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\NControl.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\NControl.Droid.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Newtonsoft.Json.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\NGraphics.Android.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\NGraphics.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.CurrentActivity.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Media.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Notifications.Abstractions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Notifications.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Permissions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\RestSharp.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Droid.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Rg.Plugins.Popup.Platform.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SkiaSharp.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SkiaSharp.Views.Android.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SkiaSharp.Views.Forms.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SQLite-net.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SQLitePCLRaw.core.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Design.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.AppIndexing.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\XamarinShortcutBadger.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Core.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Forms.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Forms.Droid.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Ioc.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Platform.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Platform.Droid.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Serialization.dll
+F:\work\smartcare\SharedProject\Android\bin\Debug\Com.OneSignal.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\FormsViewGroup.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\FormsViewGroup.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\ImageCircle.Forms.Plugin.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Newtonsoft.Json.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\NGraphics.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\NGraphics.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\NGraphics.Android.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\NGraphics.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\OneSignal.Android.Binding.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Android.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Connectivity.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Connectivity.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Connectivity.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.CurrentActivity.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.LocalNotifications.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Media.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Media.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Media.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Media.Abstractions.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Notifications.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Notifications.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Notifications.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Permissions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Permissions.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Permissions.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.SecureStorage.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.SecureStorage.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.SecureStorage.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Plugin.SecureStorage.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\RestSharp.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\SkiaSharp.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\SQLite-net.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\SQLite-net.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Core.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\XamarinShortcutBadger.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\XamarinShortcutBadger.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Core.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Forms.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Forms.Droid.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Ioc.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Platform.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Platform.Droid.xml
+F:\work\smartcare\SharedProject\Android\bin\Debug\XLabs.Serialization.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\Todo.Android.csprojAssemblyReference.cache
+F:\work\smartcare\SharedProject\Android\obj\Debug\App.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Master_Pages\main.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\Popups\Sub.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\About.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\Accounts.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\add_hospital_account.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\exist_login.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\Home.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\lab_results.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\Invoice.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\Login.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\pharmacy_list.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\PHR.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\Signup.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\Verification.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\waiting_list.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\search_dr.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\dr_profile.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\Popups\pharmaAlarm.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\myForms.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\FormTimeline.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\invoice_tab.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\invoices_pending.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\invoice_profile.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\manualResults.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Pages\manualResultForm.xaml.g.cs
+F:\work\smartcare\SharedProject\Android\obj\Debug\Todo.Android.csproj.CoreCompileInputs.cache
+F:\work\smartcare\SharedProject\Android\obj\Debug\XamlC.stamp
+F:\work\smartcare\SharedProject\Android\obj\Debug\Todo.Android.csproj.CopyComplete
+F:\work\smartcare\SharedProject\Android\obj\Debug\TodoLocalized.dll
+F:\work\smartcare\SharedProject\Android\obj\Debug\TodoLocalized.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\bin\smart.smart.apk
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\layout\tabbar.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\layout\toolbar.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\layout\main.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\values\strings.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\icon.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\check.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\check2x.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\plus.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\menu.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\user.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\currency.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\time.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\settings.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\values\color.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\user1.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\about.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_down_white_24dp.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\ic_keyboard_arrow_right_white_24dp.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\key.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\logo.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\menutop.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\layout\tabs.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\values-v21\color.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\values-v21\strings.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\values-v21\styles.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\fade.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\girl.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\grandfather.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\grandmother.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\hospital.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\invoice.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\lab.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\mother.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\out.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\verification.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\accounts.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\baby.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\background.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\boy.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\bullet.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\close.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\drug.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\values\styles.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\search.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\doctor.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\appointment.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\heartbeat.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\pills.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\xml\file_paths.xml
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\blood.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\diabetes.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\forms.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\billb.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\res\drawable\wallet.png
+F:\work\smartcare\SharedProject\Android\obj\Debug\R.cs.flag
+F:\work\smartcare\SharedProject\Android\obj\Debug\R.txt
+F:\work\smartcare\SharedProject\Android\obj\Debug\uploadflags.txt
+F:\work\smartcare\SharedProject\Android\bin\Debug\Microsoft.CSharp.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Mono.Android.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Mono.Android.Export.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\mscorlib.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Core.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.IO.Compression.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Net.Http.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Xml.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Data.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Numerics.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Transactions.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.ComponentModel.Composition.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Runtime.Serialization.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.ServiceModel.Internals.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Web.Services.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\System.Xml.Linq.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\Mono.Security.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\I18N.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\I18N.CJK.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\I18N.MidEast.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\I18N.Other.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\I18N.Rare.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\I18N.West.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Microsoft.CSharp.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Mono.Android.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Mono.Android.Export.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\mscorlib.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Connectivity.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Media.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Notifications.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Permissions.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\SQLite-net.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Core.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.IO.Compression.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Net.Http.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Xml.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Data.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Numerics.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Transactions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Web.Services.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Mono.Security.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\I18N.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\I18N.CJK.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\I18N.MidEast.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\I18N.Other.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\I18N.Rare.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\I18N.West.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\TodoLocalized.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Com.OneSignal.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\ImageCircle.Forms.Plugin.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\NGraphics.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\NGraphics.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\OneSignal.Android.Binding.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\OxyPlot.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\OxyPlot.Xamarin.Forms.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.LocalNotifications.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.LocalNotifications.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Media.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Notifications.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.SecureStorage.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.SecureStorage.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\XamarinShortcutBadger.dll.mdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\TodoLocalized.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Com.OneSignal.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\ImageCircle.Forms.Plugin.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\NGraphics.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\NGraphics.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\OneSignal.Android.Binding.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\OxyPlot.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.LocalNotifications.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.LocalNotifications.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.Media.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.Notifications.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.SecureStorage.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\TodoLocalized.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\XamarinShortcutBadger.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\I18N.CJK.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\I18N.MidEast.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\I18N.Other.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\I18N.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\I18N.Rare.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\I18N.West.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Microsoft.CSharp.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Mono.Android.Export.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Mono.Android.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Mono.Security.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\mscorlib.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.Media.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.Notifications.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\SQLite-net.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Core.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Data.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.IO.Compression.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Net.Http.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Numerics.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Transactions.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Web.Services.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\System.Xml.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+F:\work\smartcare\SharedProject\Android\bin\Debug\TodoLocalized.dll
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\TodoLocalized.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Com.OneSignal.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\ImageCircle.Forms.Plugin.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\ImageCircle.Forms.Plugin.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\NGraphics.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\NGraphics.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\OneSignal.Android.Binding.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\OxyPlot.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\OxyPlot.Xamarin.Forms.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\OxyPlot.Xamarin.Forms.Platform.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.LocalNotifications.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.LocalNotifications.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Media.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Notifications.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.SecureStorage.Abstractions.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Plugin.SecureStorage.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+F:\work\smartcare\SharedProject\Android\obj\Debug\linksrc\XamarinShortcutBadger.dll.mdb

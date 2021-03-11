@@ -1,0 +1,57 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoLocalized.Pages.Popups.pharmaAlarm"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             BackgroundColor="White"
+             >
+    <ContentPage.Content>
+        <ScrollView
+            HorizontalOptions="Center"
+            VerticalOptions="Center" BackgroundColor="Transparent">
+            <StackLayout x:Name="stackContent" Spacing="15" Margin="10,10,10,10">
+                <Frame HasShadow="True" CornerRadius="9" Padding="0">
+                <StackLayout>
+                 <Label Style="{StaticResource ClassNameLabel}"  Text="{Binding item_des}" HorizontalOptions="Center" FontSize="Medium"></Label>
+                <StackLayout
+                        Orientation="Horizontal">
+                    <Label Style="{StaticResource ClassNameLabel}" Text="Dose : " FontSize="Medium"></Label>
+                            <Entry x:Name="doseEntry" Placeholder="1"  PlaceholderColor="#bababa" FontSize="16" BackgroundColor="#fafafa" WidthRequest="100"/>
+                            <Picker Title="Select Dose type:" x:Name="PickerCtl" HorizontalOptions="FillAndExpand" BackgroundColor="#fafafa" TextColor="Black">
+                                <Picker.Items>
+
+                                </Picker.Items>
+                            </Picker>
+                    </StackLayout>
+                <StackLayout
+                        Orientation="Horizontal">
+                    <Label Style="{StaticResource ClassNameLabel}" Text="Period : " FontSize="Medium"></Label>
+                    <Entry x:Name="periodEntry" Placeholder="1"  PlaceholderColor="#bababa" FontSize="16" BackgroundColor="#fafafa" WidthRequest="90"/>
+                </StackLayout>
+                <StackLayout
+                        Orientation="Horizontal">
+                    <Label Style="{StaticResource ClassNameLabel}" Text="Every : " FontSize="Medium"></Label>
+                    <Entry x:Name="everyEntry" Placeholder="12"  PlaceholderColor="#bababa" FontSize="16" BackgroundColor="#fafafa" WidthRequest="90"/>
+                    <Label Style="{StaticResource ClassNameLabel}" Text=" /Hour" FontSize="Medium"></Label>
+                </StackLayout>
+                    <!--<StackLayout Orientation="Horizontal" >
+                        <controls:CheckBox DefaultText="Alarm"
+                                   FontName="AmericanTypewriter"
+                                   FontSize="16"
+                                   HorizontalOptions="CenterAndExpand"
+                                   TextColor="Black" />
+                </StackLayout>-->
+                <StackLayout Orientation="Horizontal">
+                    <Image x:Name="image" Source="drug.png" Margin="15,5,5,5" WidthRequest="80" HeightRequest="100" ></Image>
+                            <Button x:Name="takeImage" Clicked="TakePhoto" Text="Take Image" Margin="5,5,15,5" ></Button>
+                </StackLayout>
+                <Button x:Name="Submit_alarm" Text="Submit" TextColor="#485992" />
+                </StackLayout>
+                </Frame>
+            </StackLayout>
+
+        </ScrollView>
+    
+
+    </ContentPage.Content>
+</ContentPage>
+    

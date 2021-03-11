@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             x:Class="TodoLocalized.Pages.manualResultForm">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" HeightRequest="60">
+                <Picker Title="Result Type :" x:Name="PickerCtl" HorizontalOptions="FillAndExpand" BackgroundColor="#34495e" TextColor="Black">
+                    <Picker.Items>
+
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+            <StackLayout>
+                <Image HorizontalOptions="FillAndExpand" HeightRequest="250" x:Name="image"></Image>
+                <Label Text="Date :"></Label>
+                <DatePicker x:Name="imageDate" VerticalOptions="CenterAndExpand" Date="{Binding Start , StringFormat='{0:ddd, d:e MMMM}'}">
+                    <DatePicker.Format>yyyy-MM-dd</DatePicker.Format>
+                    <DatePicker.MinimumDate>
+                        <sys:DateTime x:FactoryMethod="Parse">
+                            <x:Arguments>
+                                <x:String>Jan 1 2010</x:String>
+                            </x:Arguments>
+                        </sys:DateTime>
+                    </DatePicker.MinimumDate>
+                    <DatePicker.MaximumDate>
+                        <sys:DateTime x:FactoryMethod="Parse">
+                            <x:Arguments>
+                                <x:String>Dec 31 2050</x:String>
+                            </x:Arguments>
+                        </sys:DateTime>
+                    </DatePicker.MaximumDate>
+                </DatePicker>
+                <Entry x:Name="comments" Placeholder="Any Comments" HorizontalOptions="FillAndExpand" HeightRequest="100"></Entry>
+                <Button x:Name="add_manual" Text="Add" TextColor="#485992"></Button>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoLocalized.Pages.dr_profile"
+             BackgroundColor="White"
+             >
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout BackgroundColor="#2c3e50" Margin="0" HeightRequest="250">
+                <Image Source="doctor.png" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,10,0,0"></Image>
+                <Label x:Name="nameL" FontSize="Large" VerticalOptions="Center" HorizontalOptions="Center" TextColor="#212121"></Label>
+
+            </StackLayout>
+            <ScrollView>
+                <StackLayout>
+                    <Label x:Name="clinicL" FontSize="Medium" Text="Clinic name : " FontAttributes="Bold" Margin="10,15,0,0"  TextColor="#212121" ></Label>
+                    <Label x:Name="hospitalL" Text="Hospital name : " FontAttributes="Bold" FontSize="Medium" Margin="10,10,0,0"  TextColor="#212121" ></Label>
+                    <StackLayout x:Name="day_week">
+
+                    </StackLayout>
+                    <Button x:Name="reserveL" Text="Reservation" BackgroundColor="#3897F0" TextColor="White" HeightRequest="50" Margin="0,15,0,0" HorizontalOptions="Center"  />
+
+                </StackLayout>
+            </ScrollView>
+            <StackLayout BackgroundColor="#FFFFFF">
+                <Label HeightRequest="1" BackgroundColor="#E3E3E3" />
+                <Label Text="Copyrights © to ICT 2017" VerticalOptions="FillAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" />
+            </StackLayout>
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

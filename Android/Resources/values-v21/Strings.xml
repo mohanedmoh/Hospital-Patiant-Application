@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Todo.Android.Android</string>
+ 
+  <style name="CustomTheme">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+       <!-- <item name="android:colorprimarytext">@color/colorprimarytext</item>
+        <item name="android:colorsecondarytext">@color/colorsecondarytext</item>
+        <item name="android:coloricons">@color/coloricons</item>
+        <item name="android:colordivider">@color/colordivider</item>-->
+    
+        <item name="android:icon">@android:color/transparent</item>
+   </style>
+
+</resources>

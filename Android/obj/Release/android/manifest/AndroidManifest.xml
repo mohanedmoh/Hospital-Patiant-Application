@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="smart.smart" android:installLocation="auto" android:theme="@style/MainTheme">
+  <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26" />
+  <permission android:name="smart.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+  <uses-permission android:name="smart.permission.C2D_MESSAGE" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+  <uses-permission android:name="android.permission.RECORD_AUDIO" />
+  <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+  <receiver android-permission="android.permission.RECEIVE_BOOT_COMPLETED" android:exported="true" android:name=".bootReceiver" android:enabled="true">
+    <intent-filter>
+      <action android:name="android.intent.action.BOOT_COMPLETED" />
+      <category android:name="android.intent.category.DEFAULT" />
+    </intent-filter>
+  </receiver>
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-feature android:name="android.hardware.camera" android:required="false" />
+  <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
+  <application android:label="smart.Android" android:icon="@drawable/logo" android:theme="@style/MainTheme" android:largeHeap="true" android:name="md50ad064080a3fd4a5668fd3b04b8b6df8.MainApplication" android:allowBackup="true">
+    <receiver android:name="com.onesignal.GcmBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <category android:name="smart" />
+      </intent-filter>
+    </receiver>
+    <receiver android:name=".bootReceiver" android:enabled="true">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+        <category android:name="android.intent.category.DEFAULT" />
+      </intent-filter>
+    </receiver>
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="App8" android:theme="@style/MainTheme" android:name="md50ad064080a3fd4a5668fd3b04b8b6df8.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <receiver android:name="md50ad064080a3fd4a5668fd3b04b8b6df8.AlarmReceiver" />
+    <receiver android:name="md50ad064080a3fd4a5668fd3b04b8b6df8.bootReceiver">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+      </intent-filter>
+    </receiver>
+    <receiver android:enabled="true" android:label="Connectivity Plugin Broadcast Receiver" android:name="md59628c2715c1bb8febcc7ae8402df0582.ConnectivityChangeBroadcastReceiver" />
+    <receiver android:enabled="true" android:label="Local Notifications Plugin Broadcast Receiver" android:name="md51251ca0436b286678a1cd2c1ca81248e.ScheduledAlarmHandler" />
+    <activity android:configChanges="orientation|screenSize" android:name="md54cd65ac53ae710bff80022afc423e0f3.MediaPickerActivity" />
+    <receiver android:enabled="true" android:label="Notifications Broadcast Receiver" android:name="md5211d9df3e089261629d63c6bef4b0ea2.AlarmBroadcastReceiver" />
+    <activity android:name="md5ffa21440d43fa9f7b0ce3fc2ebd14867.MediaPickerActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="smart.smart.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+    <service android:name="com.onesignal.GcmIntentService" />
+    <service android:name="com.onesignal.SyncService" />
+    <activity android:name="com.onesignal.PermissionsActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    <service android:name="com.onesignal.NotificationRestoreService" />
+    <receiver android:name="com.onesignal.BootUpReceiver">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+        <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+      </intent-filter>
+    </receiver>
+    <receiver android:name="com.onesignal.UpgradeReceiver">
+      <intent-filter>
+        <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+      </intent-filter>
+    </receiver>
+    <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
+  </application>
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+  <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+  <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" />
+  <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+  <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" />
+  <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+  <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" />
+  <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" />
+  <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" />
+  <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+  <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+  <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" />
+  <uses-permission android:name="android.permission.READ_APP_BADGE" />
+  <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+  <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" />
+</manifest>

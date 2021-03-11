@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+                 IsAnimating="True"
+                 BackgroundColor="Transparent"
+                 CloseWhenBackgroundIsClicked="True"
+                 
+             x:Class="TodoLocalized.Pages.Popups.Sub">
+    <pages:PopupPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="EntryStyle" TargetType="Entry">
+                <Setter Property="PlaceholderColor" Value="#9cdaf1"/>
+                <Setter Property="TextColor" Value="#7dbbe6"/>
+            </Style>
+        </ResourceDictionary>
+    </pages:PopupPage.Resources>
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation
+      PositionIn="Bottom"
+      PositionOut="Center"
+      ScaleIn="1"
+      ScaleOut="0.7"
+      DurationIn="700"
+      EasingIn="BounceOut"/>
+    </pages:PopupPage.Animation>
+    <ScrollView
+    HorizontalOptions="Center"
+    VerticalOptions="Center" BackgroundColor="Transparent">
+        <AbsoluteLayout BackgroundColor="Transparent">
+            <Frame
+        x:Name="FrameContainer"
+        Margin="15,10,15,15"
+        HorizontalOptions="Center"
+        BackgroundColor="White">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Label Style="{StaticResource ClassTimeLabel}" Grid.Row="0" Grid.Column="0" Text="Test Name :" HorizontalOptions="Start"></Label>
+                    <Label Style="{StaticResource ClassTimeLabel}" Grid.Row="1" Grid.Column="0" Text="Analysis Name :" HorizontalOptions="Start"></Label>
+                    <Label Style="{StaticResource ClassTimeLabel}" Grid.Row="2" Grid.Column="0" Text="Result :" HorizontalOptions="Start"></Label>
+                    <Label Style="{StaticResource ClassTimeLabel}" Grid.Row="3" Grid.Column="0" Text="Unit" HorizontalOptions="Start"></Label>
+                    <Label Style="{StaticResource ClassTimeLabel}" Grid.Row="4" Grid.Column="0" Text="RV" HorizontalOptions="Start"></Label>
+                    <Label Style="{StaticResource ClassTimeLabel}" Grid.Row="5" Grid.Column="0" Text="Reviewed by :" HorizontalOptions="Start"></Label>
+                    <Label Style="{StaticResource ClassTimeLabel}" Grid.Row="6" Grid.Column="0" Text="Date" HorizontalOptions="Start"></Label>
+                    
+                    <Label Style="{StaticResource ClassNameLabel}" Grid.Row="0" Grid.Column="1" Text="{Binding test_name}" HorizontalOptions="Center" FontSize="Small"></Label>
+                    <Label Style="{StaticResource ClassNameLabel}" Grid.Row="1" Grid.Column="1" Text="{Binding analysis_name}"  HorizontalOptions="Center" FontSize="Small"></Label>
+                    <Label Style="{StaticResource ClassNameLabel}" Grid.Row="2" Grid.Column="1" Text="{Binding result}"  HorizontalOptions="Center" FontSize="Small"></Label>
+                    <Label Style="{StaticResource ClassNameLabel}" Grid.Row="3" Grid.Column="1" Text="{Binding unit}" HorizontalOptions="Center" FontSize="Small"></Label>
+                    <Label Style="{StaticResource ClassNameLabel}" Grid.Row="4" Grid.Column="1" Text="{Binding RV}" HorizontalOptions="Center" FontSize="Small"></Label>
+                    <Label Style="{StaticResource ClassNameLabel}" Grid.Row="5" Grid.Column="1" Text="{Binding reviewed}" HorizontalOptions="Center" FontSize="Small"></Label>
+                    <Label Style="{StaticResource ClassNameLabel}" Grid.Row="6" Grid.Column="1" Text="{Binding date}" HorizontalOptions="Center" FontSize="Small"></Label>
+
+
+
+                </Grid>
+            </Frame>
+            <ContentView
+          AbsoluteLayout.LayoutFlags="PositionProportional"
+          AbsoluteLayout.LayoutBounds="1, 0, -1, -1">
+                <ContentView.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="OnCloseButtonTapped"/>
+                </ContentView.GestureRecognizers>
+                <Image x:Name="CloseImage" HeightRequest="30" WidthRequest="30" Source="close.png"></Image>
+            </ContentView>
+        </AbsoluteLayout>
+    </ScrollView>
+</pages:PopupPage>
